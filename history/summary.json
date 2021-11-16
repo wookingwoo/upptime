@@ -22,9 +22,9 @@
     "url": "https://jjambot.wookingwoo.com",
     "icon": "https://favicons.githubusercontent.com/jjambot.wookingwoo.com",
     "slug": "jjambot-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 252,
     "timeMonth": 309,
     "timeYear": 299,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-16": 0
+    }
   },
   {
     "name": "smartwork",
@@ -58,9 +60,9 @@
     "url": "https://maptool.wookingwoo.com",
     "icon": "https://favicons.githubusercontent.com/maptool.wookingwoo.com",
     "slug": "maptool",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +71,9 @@
     "timeWeek": 236,
     "timeMonth": 196,
     "timeYear": 212,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-16": 0
+    }
   },
   {
     "name": "message",
@@ -94,9 +98,9 @@
     "url": "https://animalface.wookingwoo.com",
     "icon": "https://favicons.githubusercontent.com/animalface.wookingwoo.com",
     "slug": "animalface",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -105,7 +109,9 @@
     "timeWeek": 225,
     "timeMonth": 207,
     "timeYear": 202,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-16": 0
+    }
   },
   {
     "name": "secret1",
