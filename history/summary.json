@@ -22,9 +22,9 @@
     "url": "https://jjambot.wookingwoo.com",
     "icon": "https://favicons.githubusercontent.com/jjambot.wookingwoo.com",
     "slug": "jjambot-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -34,6 +34,7 @@
     "timeMonth": 230,
     "timeYear": 269,
     "dailyMinutesDown": {
+      "2021-12-20": 0,
       "2021-11-16": 21
     }
   },
@@ -60,9 +61,9 @@
     "url": "https://maptool.wookingwoo.com",
     "icon": "https://favicons.githubusercontent.com/maptool.wookingwoo.com",
     "slug": "maptool",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -72,6 +73,7 @@
     "timeMonth": 199,
     "timeYear": 204,
     "dailyMinutesDown": {
+      "2021-12-20": 0,
       "2021-11-16": 21
     }
   },
@@ -98,9 +100,9 @@
     "url": "https://animalface.wookingwoo.com",
     "icon": "https://favicons.githubusercontent.com/animalface.wookingwoo.com",
     "slug": "animalface",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -110,6 +112,7 @@
     "timeMonth": 397,
     "timeYear": 272,
     "dailyMinutesDown": {
+      "2021-12-20": 0,
       "2021-11-16": 21
     }
   },
