@@ -80,19 +80,19 @@
     "url": "https://msg.wookingwoo.com/oauth2/login?message=%EB%A1%9C%EA%B7%B8%EC%9D%B8%EC%9D%B4%20%ED%95%84%EC%9A%94%ED%95%A9%EB%8B%88%EB%8B%A4&returnUrl=http%3A%2F%2Fmsg.wookingwoo.com%2Fdashboard",
     "icon": "https://favicons.githubusercontent.com/msg.wookingwoo.com",
     "slug": "message",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 956,
-    "timeDay": 1021,
-    "timeWeek": 908,
+    "timeDay": 998,
+    "timeWeek": 913,
     "timeMonth": 927,
     "timeYear": 956,
     "dailyMinutesDown": {
-      "2021-12-31": 0
+      "2021-12-31": 7
     }
   },
   {
