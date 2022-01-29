@@ -44,19 +44,19 @@
     "url": "https://smartwork.wookingwoo.com",
     "icon": "https://favicons.githubusercontent.com/smartwork.wookingwoo.com",
     "slug": "smartwork",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 767,
-    "timeDay": 632,
-    "timeWeek": 889,
-    "timeMonth": 802,
-    "timeYear": 767,
+    "time": 779,
+    "timeDay": 1442,
+    "timeWeek": 1059,
+    "timeMonth": 848,
+    "timeYear": 779,
     "dailyMinutesDown": {
-      "2022-01-29": 0
+      "2022-01-29": 6
     }
   },
   {
