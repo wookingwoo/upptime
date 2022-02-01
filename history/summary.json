@@ -51,7 +51,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 924,
-    "timeDay": 4945,
+    "timeDay": 3499,
     "timeWeek": 3060,
     "timeMonth": 1383,
     "timeYear": 924,
@@ -121,9 +121,9 @@
     "url": "$SECRET_SITE_1",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -132,6 +132,8 @@
     "timeWeek": 1715,
     "timeMonth": 895,
     "timeYear": 709,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-01": 0
+    }
   }
 ]
