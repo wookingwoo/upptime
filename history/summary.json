@@ -44,9 +44,9 @@
     "url": "https://smartwork.wookingwoo.com",
     "icon": "https://favicons.githubusercontent.com/smartwork.wookingwoo.com",
     "slug": "smartwork",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -55,7 +55,9 @@
     "timeWeek": 2870,
     "timeMonth": 2795,
     "timeYear": 1282,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-12": 0
+    }
   },
   {
     "name": "maptool",
