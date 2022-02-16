@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 929,
-    "timeDay": 886,
-    "timeWeek": 2775,
-    "timeMonth": 1857,
-    "timeYear": 929,
+    "time": 957,
+    "timeDay": 4777,
+    "timeWeek": 3214,
+    "timeMonth": 1981,
+    "timeYear": 957,
     "dailyMinutesDown": {
       "2022-01-29": 17
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 264,
-    "timeDay": 168,
-    "timeWeek": 137,
-    "timeMonth": 256,
+    "timeDay": 291,
+    "timeWeek": 162,
+    "timeMonth": 255,
     "timeYear": 264,
     "dailyMinutesDown": {
       "2021-11-16": 21
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1426,
-    "timeDay": 2213,
-    "timeWeek": 3727,
-    "timeMonth": 3310,
-    "timeYear": 1426,
+    "time": 1466,
+    "timeDay": 7223,
+    "timeWeek": 4376,
+    "timeMonth": 3480,
+    "timeYear": 1466,
     "dailyMinutesDown": {}
   },
   {
@@ -69,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 211,
-    "timeDay": 234,
-    "timeWeek": 265,
-    "timeMonth": 236,
+    "timeDay": 268,
+    "timeWeek": 281,
+    "timeMonth": 219,
     "timeYear": 211,
     "dailyMinutesDown": {
       "2021-11-16": 21
@@ -88,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 960,
-    "timeDay": 743,
-    "timeWeek": 911,
-    "timeMonth": 924,
-    "timeYear": 960,
+    "time": 959,
+    "timeDay": 801,
+    "timeWeek": 903,
+    "timeMonth": 925,
+    "timeYear": 959,
     "dailyMinutesDown": {}
   },
   {
@@ -107,9 +107,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 260,
-    "timeDay": 208,
-    "timeWeek": 158,
-    "timeMonth": 193,
+    "timeDay": 237,
+    "timeWeek": 162,
+    "timeMonth": 194,
     "timeYear": 260,
     "dailyMinutesDown": {
       "2022-01-09": 17,
@@ -121,17 +121,17 @@
     "url": "$SECRET_SITE_1",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "98.88%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 1006,
-    "timeDay": 4023,
-    "timeWeek": 2837,
-    "timeMonth": 2163,
-    "timeYear": 1006,
+    "time": 1026,
+    "timeDay": 5211,
+    "timeWeek": 3186,
+    "timeMonth": 2256,
+    "timeYear": 1026,
     "dailyMinutesDown": {
       "2022-02-16": 16
     }
