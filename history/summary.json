@@ -121,9 +121,9 @@
     "url": "$SECRET_SITE_1",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -132,6 +132,8 @@
     "timeWeek": 2294,
     "timeMonth": 2023,
     "timeYear": 965,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-16": 0
+    }
   }
 ]
