@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 1070,
-    "timeDay": 6813,
-    "timeWeek": 4084,
-    "timeMonth": 2486,
-    "timeYear": 1070,
+    "time": 1086,
+    "timeDay": 3461,
+    "timeWeek": 4161,
+    "timeMonth": 2567,
+    "timeYear": 1086,
     "dailyMinutesDown": {
       "2022-01-29": 17
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 261,
-    "timeDay": 188,
-    "timeWeek": 186,
-    "timeMonth": 246,
+    "timeDay": 157,
+    "timeWeek": 174,
+    "timeMonth": 247,
     "timeYear": 261,
     "dailyMinutesDown": {
       "2021-11-16": 21
@@ -45,19 +45,17 @@
     "icon": "https://favicons.githubusercontent.com/smartwork.wookingwoo.com",
     "slug": "smartwork",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 1754,
-    "timeDay": 8503,
-    "timeWeek": 5669,
-    "timeMonth": 4268,
-    "timeYear": 1754,
-    "dailyMinutesDown": {
-      "2022-02-20": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1815,
+    "timeDay": 11671,
+    "timeWeek": 5860,
+    "timeMonth": 4507,
+    "timeYear": 1815,
+    "dailyMinutesDown": {}
   },
   {
     "name": "maptool",
@@ -70,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 210,
-    "timeDay": 181,
-    "timeWeek": 268,
-    "timeMonth": 213,
-    "timeYear": 210,
+    "time": 209,
+    "timeDay": 108,
+    "timeWeek": 260,
+    "timeMonth": 209,
+    "timeYear": 209,
     "dailyMinutesDown": {
       "2021-11-16": 21
     }
@@ -90,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 960,
-    "timeDay": 833,
-    "timeWeek": 909,
-    "timeMonth": 933,
-    "timeYear": 960,
+    "time": 959,
+    "timeDay": 857,
+    "timeWeek": 926,
+    "timeMonth": 927,
+    "timeYear": 959,
     "dailyMinutesDown": {}
   },
   {
@@ -108,11 +106,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 259,
-    "timeDay": 139,
-    "timeWeek": 210,
-    "timeMonth": 201,
-    "timeYear": 259,
+    "time": 258,
+    "timeDay": 109,
+    "timeWeek": 200,
+    "timeMonth": 198,
+    "timeYear": 258,
     "dailyMinutesDown": {
       "2022-01-09": 17,
       "2021-11-16": 21
@@ -125,17 +123,16 @@
     "slug": "secret1",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.54%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.98%",
-    "time": 1253,
-    "timeDay": 10354,
-    "timeWeek": 5242,
-    "timeMonth": 3051,
-    "timeYear": 1253,
+    "time": 1305,
+    "timeDay": 13070,
+    "timeWeek": 5251,
+    "timeMonth": 3276,
+    "timeYear": 1305,
     "dailyMinutesDown": {
-      "2022-02-20": 10,
       "2022-02-17": 16,
       "2022-02-16": 21
     }
