@@ -30,7 +30,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.wookingwoo.com
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://wookingwoo-logo.s3.ap-northeast-2.amazonaws.com/wookingwoo_logo_img/fulllogo_horizon_fullcolor.png
+  favicon: https://wookingwoo-logo.s3.ap-northeast-2.amazonaws.com/wookingwoo_logo_img/crown_fullcolor_%404x.png
   name: wookingwoo-status
   introTitle: "The monitoring system for **wookingwoo**."
   introMessage: This is a status page for **wookingwoo**. [GitHub](https://github.com/wookingwoo) [wookingwoo-website](https://wookingwoo.com)
