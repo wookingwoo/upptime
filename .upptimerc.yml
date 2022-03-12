@@ -32,7 +32,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://wookingwoo-logo.s3.ap-northeast-2.amazonaws.com/wookingwoo_logo_img/fulllogo_horizon_fullcolor.png
   favicon: https://wookingwoo-logo.s3.ap-northeast-2.amazonaws.com/wookingwoo_logo_img/crown_fullcolor_%404x.png
-  name: wookingwoo-status
+  name: - status
   introTitle: "The monitoring system for **wookingwoo**."
   introMessage: This is a status page for **wookingwoo**. [GitHub](https://github.com/wookingwoo) [wookingwoo-website](https://wookingwoo.com)
   navbar:
