@@ -18,8 +18,12 @@ sites:
   - name: secret1
     url: $SECRET_SITE_1
   - name: namsigdang-chatbot
-    url: $SECRET_SITE_NAMSIGDANG_CHATBOT
-    method: $SECRET_METHOD_1
+    method: $NAMSIGDANG_CHATBOT_SECRET_METHOD
+    url: $NAMSIGDANG_CHATBOT_SECRET_URL
+    headers:
+      - $NAMSIGDANG_CHATBOT_SECRET_HEADERS
+    body: $NAMSIGDANG_CHATBOT_SECRET_BODY
+
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
