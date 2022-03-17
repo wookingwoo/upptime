@@ -22,6 +22,7 @@ sites:
     url: $NAMSIGDANG_CHATBOT_SECRET_URL
     headers:
       - "Content-Type: $NAMSIGDANG_CHATBOT_SECRET_CONTENTTYPE"
+      - "Content-Length: 8000"
     body: '{ $NAMSIGDANG_CHATBOT_SECRET_BODY }'
 
     
