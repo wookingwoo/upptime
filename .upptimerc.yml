@@ -15,6 +15,8 @@ sites:
     url: https://msg.wookingwoo.com/oauth2/login?message=%EB%A1%9C%EA%B7%B8%EC%9D%B8%EC%9D%B4%20%ED%95%84%EC%9A%94%ED%95%A9%EB%8B%88%EB%8B%A4&returnUrl=http%3A%2F%2Fmsg.wookingwoo.com%2Fdashboard
   - name: animalface
     url: https://animalface.wookingwoo.com
+  - name: wkw.one
+    url: https://wkw.one
   - name: namsigdang-chatbot
     method: $NAMSIGDANG_CHATBOT_SECRET_METHOD
     url: $NAMSIGDANG_CHATBOT_SECRET_URL
