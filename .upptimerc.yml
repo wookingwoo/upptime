@@ -23,6 +23,7 @@ sites:
     port: $NAMSIGDANG_CHATBOT_SECRET_PORT
     headers:
       - "Content-Type: $NAMSIGDANG_CHATBOT_SECRET_CONTENTTYPE"
+      - "Content-Length: 1000"
     body: '$NAMSIGDANG_CHATBOT_SECRET_BODY'
 
     
