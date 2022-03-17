@@ -20,7 +20,6 @@ sites:
   - name: namsigdang-chatbot
     method: $NAMSIGDANG_CHATBOT_SECRET_METHOD
     url: $NAMSIGDANG_CHATBOT_SECRET_URL
-    port: $NAMSIGDANG_CHATBOT_SECRET_PORT
     headers:
       - "Content-Type: $NAMSIGDANG_CHATBOT_SECRET_CONTENTTYPE"
       - "Content-Length: 1000"
