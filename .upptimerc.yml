@@ -20,8 +20,7 @@ sites:
   - name: namsigdang-chatbot
     method: $NAMSIGDANG_CHATBOT_SECRET_METHOD
     url: $NAMSIGDANG_CHATBOT_SECRET_URL
-    headers:
-      - "Content-Type: $NAMSIGDANG_CHATBOT_SECRET_CONTENTTYPE"
+    headers: "{Content-Type: $NAMSIGDANG_CHATBOT_SECRET_CONTENTTYPE}"
     body: '$NAMSIGDANG_CHATBOT_SECRET_BODY'
 
     
