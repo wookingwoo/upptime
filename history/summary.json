@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1047,
-    "timeDay": 795,
-    "timeWeek": 733,
-    "timeMonth": 678,
-    "timeYear": 1047,
+    "time": 1044,
+    "timeDay": 680,
+    "timeWeek": 712,
+    "timeMonth": 676,
+    "timeYear": 1044,
     "dailyMinutesDown": {
       "2022-01-29": 17
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 373,
-    "timeDay": 1269,
-    "timeWeek": 283,
-    "timeMonth": 229,
-    "timeYear": 373,
+    "time": 371,
+    "timeDay": 695,
+    "timeWeek": 263,
+    "timeMonth": 227,
+    "timeYear": 371,
     "dailyMinutesDown": {
       "2021-11-16": 21
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1566,
-    "timeDay": 778,
-    "timeWeek": 715,
-    "timeMonth": 665,
-    "timeYear": 1566,
+    "time": 1562,
+    "timeDay": 672,
+    "timeWeek": 697,
+    "timeMonth": 663,
+    "timeYear": 1562,
     "dailyMinutesDown": {}
   },
   {
@@ -69,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 331,
-    "timeDay": 188,
-    "timeWeek": 126,
-    "timeMonth": 177,
+    "timeDay": 175,
+    "timeWeek": 130,
+    "timeMonth": 176,
     "timeYear": 331,
     "dailyMinutesDown": {
       "2022-03-09": 16,
@@ -89,11 +89,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 954,
-    "timeDay": 1183,
-    "timeWeek": 1093,
-    "timeMonth": 949,
-    "timeYear": 954,
+    "time": 953,
+    "timeDay": 1015,
+    "timeWeek": 1062,
+    "timeMonth": 946,
+    "timeYear": 953,
     "dailyMinutesDown": {}
   },
   {
@@ -107,11 +107,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 228,
-    "timeDay": 954,
-    "timeWeek": 441,
-    "timeMonth": 166,
-    "timeYear": 228,
+    "time": 227,
+    "timeDay": 522,
+    "timeWeek": 397,
+    "timeMonth": 165,
+    "timeYear": 227,
     "dailyMinutesDown": {
       "2022-01-09": 17,
       "2021-11-16": 21
@@ -128,11 +128,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 232,
-    "timeDay": 1149,
-    "timeWeek": 236,
-    "timeMonth": 232,
-    "timeYear": 232,
+    "time": 229,
+    "timeDay": 625,
+    "timeWeek": 219,
+    "timeMonth": 229,
+    "timeYear": 229,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Wookingwoo Online Judge",
+    "url": "https://woj.wookingwoo.com",
+    "icon": "https://favicons.githubusercontent.com/woj.wookingwoo.com",
+    "slug": "wookingwoo-online-judge",
+    "status": "down",
+    "uptime": "13.25%",
+    "uptimeDay": "13.25%",
+    "uptimeWeek": "13.25%",
+    "uptimeMonth": "13.25%",
+    "uptimeYear": "13.25%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-04-11": 0
+    }
   }
 ]
