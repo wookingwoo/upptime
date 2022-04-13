@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1037,
-    "timeDay": 593,
-    "timeWeek": 687,
-    "timeMonth": 678,
-    "timeYear": 1037,
+    "time": 1035,
+    "timeDay": 594,
+    "timeWeek": 679,
+    "timeMonth": 676,
+    "timeYear": 1035,
     "dailyMinutesDown": {
       "2022-01-29": 17
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 367,
-    "timeDay": 107,
-    "timeWeek": 249,
-    "timeMonth": 240,
+    "timeDay": 135,
+    "timeWeek": 243,
+    "timeMonth": 239,
     "timeYear": 367,
     "dailyMinutesDown": {
       "2021-11-16": 21
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1545,
-    "timeDay": 579,
-    "timeWeek": 680,
-    "timeMonth": 665,
-    "timeYear": 1545,
+    "time": 1541,
+    "timeDay": 575,
+    "timeWeek": 670,
+    "timeMonth": 663,
+    "timeYear": 1541,
     "dailyMinutesDown": {}
   },
   {
@@ -69,8 +69,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 327,
-    "timeDay": 134,
-    "timeWeek": 132,
+    "timeDay": 150,
+    "timeWeek": 137,
     "timeMonth": 187,
     "timeYear": 327,
     "dailyMinutesDown": {
@@ -91,8 +91,8 @@
     "uptimeYear": "100.00%",
     "time": 953,
     "timeDay": 905,
-    "timeWeek": 1048,
-    "timeMonth": 958,
+    "timeWeek": 1035,
+    "timeMonth": 957,
     "timeYear": 953,
     "dailyMinutesDown": {}
   },
@@ -108,9 +108,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 225,
-    "timeDay": 169,
-    "timeWeek": 353,
-    "timeMonth": 174,
+    "timeDay": 177,
+    "timeWeek": 338,
+    "timeMonth": 175,
     "timeYear": 225,
     "dailyMinutesDown": {
       "2022-01-09": 17,
@@ -118,8 +118,26 @@
     }
   },
   {
+    "name": "wkw.one",
+    "url": "https://wkw.one",
+    "icon": "https://favicons.githubusercontent.com/wkw.one",
+    "slug": "wkw-one",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 233,
+    "timeDay": 363,
+    "timeWeek": 267,
+    "timeMonth": 233,
+    "timeYear": 233,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "woj",
-    "url": "https://woj.wookingwoo.com",
+    "url": "http://woj.wookingwoo.com/",
     "icon": "https://favicons.githubusercontent.com/woj.wookingwoo.com",
     "slug": "woj",
     "status": "down",
@@ -134,27 +152,9 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-13": 798,
+      "2022-04-13": 806,
       "2022-04-12": 1440,
       "2022-04-11": 969
     }
-  },
-  {
-    "name": "wkw.one",
-    "url": "https://wkw.one",
-    "icon": "https://favicons.githubusercontent.com/wkw.one",
-    "slug": "wkw-one",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 237,
-    "timeDay": 504,
-    "timeWeek": 285,
-    "timeMonth": 237,
-    "timeYear": 237,
-    "dailyMinutesDown": {}
   }
 ]
