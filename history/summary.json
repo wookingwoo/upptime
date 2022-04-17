@@ -13,7 +13,7 @@
     "time": 1028,
     "timeDay": 799,
     "timeWeek": 652,
-    "timeMonth": 677,
+    "timeMonth": 680,
     "timeYear": 1028,
     "dailyMinutesDown": {
       "2022-01-29": 17
@@ -33,7 +33,7 @@
     "time": 368,
     "timeDay": 1321,
     "timeWeek": 360,
-    "timeMonth": 263,
+    "timeMonth": 290,
     "timeYear": 368,
     "dailyMinutesDown": {
       "2021-11-16": 21
@@ -53,7 +53,7 @@
     "time": 1525,
     "timeDay": 772,
     "timeWeek": 632,
-    "timeMonth": 660,
+    "timeMonth": 664,
     "timeYear": 1525,
     "dailyMinutesDown": {}
   },
@@ -71,7 +71,7 @@
     "time": 329,
     "timeDay": 1308,
     "timeWeek": 267,
-    "timeMonth": 216,
+    "timeMonth": 239,
     "timeYear": 329,
     "dailyMinutesDown": {
       "2022-03-09": 16,
@@ -92,7 +92,7 @@
     "time": 953,
     "timeDay": 1221,
     "timeWeek": 969,
-    "timeMonth": 961,
+    "timeMonth": 975,
     "timeYear": 953,
     "dailyMinutesDown": {}
   },
@@ -101,18 +101,19 @@
     "url": "https://animalface.wookingwoo.com",
     "icon": "https://favicons.githubusercontent.com/animalface.wookingwoo.com",
     "slug": "animalface",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 226,
     "timeDay": 140,
     "timeWeek": 263,
-    "timeMonth": 188,
+    "timeMonth": 202,
     "timeYear": 226,
     "dailyMinutesDown": {
+      "2022-04-17": 0,
       "2022-01-09": 17,
       "2021-11-16": 21
     }
@@ -131,7 +132,7 @@
     "time": 223,
     "timeDay": 116,
     "timeWeek": 278,
-    "timeMonth": 223,
+    "timeMonth": 188,
     "timeYear": 223,
     "dailyMinutesDown": {}
   },
@@ -152,7 +153,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-17": 44,
+      "2022-04-17": 1332,
       "2022-04-16": 1440,
       "2022-04-15": 1440,
       "2022-04-14": 1440,
