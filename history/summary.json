@@ -24,10 +24,10 @@
     "url": "https://jjambot.wookingwoo.com",
     "icon": "https://favicons.githubusercontent.com/jjambot.wookingwoo.com",
     "slug": "jjambot-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 364,
@@ -36,6 +36,7 @@
     "timeMonth": 311,
     "timeYear": 364,
     "dailyMinutesDown": {
+      "2022-08-09": 1,
       "2022-06-02": 15,
       "2022-05-02": 28,
       "2021-11-16": 21
@@ -162,7 +163,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-09": 57,
+      "2022-08-09": 1135,
       "2022-08-08": 1440,
       "2022-08-07": 1440,
       "2022-08-06": 1440,
