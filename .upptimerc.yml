@@ -19,6 +19,10 @@ sites:
     url: https://wkw.one
   - name: woj
     url: http://woj.wookingwoo.com/
+  - name: pi
+    url: https://pi.wookingwoo.com/
+  - name: ip
+    url: http://ip.wookingwoo.com/
 
     
 status-website:
