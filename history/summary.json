@@ -24,10 +24,10 @@
     "url": "https://jjambot.wookingwoo.com",
     "icon": "https://favicons.githubusercontent.com/jjambot.wookingwoo.com",
     "slug": "jjambot-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 364,
@@ -36,6 +36,7 @@
     "timeMonth": 360,
     "timeYear": 364,
     "dailyMinutesDown": {
+      "2022-08-31": 1,
       "2022-06-02": 15,
       "2022-05-02": 28,
       "2021-11-16": 21
@@ -166,7 +167,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-31": 985,
+      "2022-08-31": 1074,
       "2022-08-30": 1440,
       "2022-08-29": 1440,
       "2022-08-28": 1440,
@@ -316,9 +317,9 @@
     "url": "https://pi.wookingwoo.com/",
     "icon": "https://favicons.githubusercontent.com/pi.wookingwoo.com",
     "slug": "pi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -327,7 +328,9 @@
     "timeWeek": 212,
     "timeMonth": 212,
     "timeYear": 212,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-31": 0
+    }
   },
   {
     "name": "ip",
