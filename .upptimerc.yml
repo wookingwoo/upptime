@@ -31,7 +31,6 @@ sites:
     body: $NAMSIGDANG_CHATBOT_SECRET_BODY
     expectedStatusCodes:
       - 200
-      - 400
 
     
 status-website:
