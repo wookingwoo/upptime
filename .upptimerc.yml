@@ -28,11 +28,11 @@ sites:
     url: $NAMSIGDANG_CHATBOT_SECRET_URL
     headers:
       - 'Content-Type: $NAMSIGDANG_CHATBOT_SECRET_CONTENTTYPE'
-    body: $NAMSIGDANG_CHATBOT_SECRET_BODY
+    body: '$NAMSIGDANG_CHATBOT_SECRET_BODY'
     expectedStatusCodes:
       - 200
+      - 400
 
-    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
