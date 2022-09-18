@@ -29,6 +29,9 @@ sites:
     headers:
       - 'Content-Type: $NAMSIGDANG_CHATBOT_SECRET_CONTENTTYPE'
     body: '$NAMSIGDANG_CHATBOT_SECRET_BODY'
+    expectedStatusCodes:
+      - 200
+      - 400
 
     
 status-website:
