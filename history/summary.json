@@ -167,7 +167,7 @@
     "timeMonth": 418,
     "timeYear": 418,
     "dailyMinutesDown": {
-      "2022-10-21": 1081,
+      "2022-10-21": 1112,
       "2022-10-20": 1440,
       "2022-10-19": 1440,
       "2022-10-18": 1440,
@@ -386,19 +386,19 @@
     "url": "http://ip.wookingwoo.com/",
     "icon": "https://icons.duckduckgo.com/ip3/ip.wookingwoo.com.ico",
     "slug": "ip",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 750,
-    "timeDay": 720,
-    "timeWeek": 740,
-    "timeMonth": 790,
-    "timeYear": 750,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "97.86%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.96%",
+    "time": 902,
+    "timeDay": 5214,
+    "timeWeek": 1861,
+    "timeMonth": 1078,
+    "timeYear": 902,
     "dailyMinutesDown": {
-      "2022-10-21": 0
+      "2022-10-21": 31
     }
   },
   {
