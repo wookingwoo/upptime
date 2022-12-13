@@ -176,7 +176,7 @@
     "timeMonth": 391,
     "timeYear": 404,
     "dailyMinutesDown": {
-      "2022-12-13": 47,
+      "2022-12-13": 526,
       "2022-12-12": 1440,
       "2022-12-11": 1440,
       "2022-12-10": 1440,
@@ -430,18 +430,20 @@
     "url": "https://pi.wookingwoo.com/",
     "icon": "https://icons.duckduckgo.com/ip3/pi.wookingwoo.com.ico",
     "slug": "pi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 323,
-    "timeDay": 233,
-    "timeWeek": 580,
-    "timeMonth": 303,
-    "timeYear": 323,
-    "dailyMinutesDown": {}
+    "time": 346,
+    "timeDay": 1651,
+    "timeWeek": 829,
+    "timeMonth": 387,
+    "timeYear": 346,
+    "dailyMinutesDown": {
+      "2022-12-13": 0
+    }
   },
   {
     "name": "ip",
