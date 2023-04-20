@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.51%",
     "time": 889,
-    "timeDay": 854,
-    "timeWeek": 753,
-    "timeMonth": 738,
+    "timeDay": 684,
+    "timeWeek": 751,
+    "timeMonth": 739,
     "timeYear": 736,
     "dailyMinutesDown": {
       "2023-01-25": 16,
@@ -38,9 +38,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 363,
-    "timeDay": 279,
-    "timeWeek": 277,
-    "timeMonth": 244,
+    "timeDay": 212,
+    "timeWeek": 264,
+    "timeMonth": 241,
     "timeYear": 355,
     "dailyMinutesDown": {
       "2022-12-15": 15,
@@ -60,10 +60,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 1073,
-    "timeDay": 824,
-    "timeWeek": 745,
-    "timeMonth": 731,
+    "time": 1072,
+    "timeDay": 685,
+    "timeWeek": 743,
+    "timeMonth": 732,
     "timeYear": 724,
     "dailyMinutesDown": {
       "2023-01-25": 16,
@@ -83,10 +83,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 366,
-    "timeDay": 263,
-    "timeWeek": 300,
+    "timeDay": 266,
+    "timeWeek": 294,
     "timeMonth": 513,
-    "timeYear": 373,
+    "timeYear": 374,
     "dailyMinutesDown": {
       "2022-12-15": 15,
       "2022-12-13": 16,
@@ -110,9 +110,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 979,
-    "timeDay": 1179,
-    "timeWeek": 1091,
-    "timeMonth": 994,
+    "timeDay": 1079,
+    "timeWeek": 1069,
+    "timeMonth": 997,
     "timeYear": 989,
     "dailyMinutesDown": {
       "2022-07-17": 406
@@ -130,9 +130,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 312,
-    "timeDay": 212,
-    "timeWeek": 347,
-    "timeMonth": 283,
+    "timeDay": 223,
+    "timeWeek": 336,
+    "timeMonth": 281,
     "timeYear": 351,
     "dailyMinutesDown": {
       "2022-12-08": 37,
@@ -154,9 +154,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 155,
-    "timeDay": 39,
-    "timeWeek": 170,
-    "timeMonth": 201,
+    "timeDay": 251,
+    "timeWeek": 195,
+    "timeMonth": 200,
     "timeYear": 147,
     "dailyMinutesDown": {}
   },
@@ -177,7 +177,8 @@
     "timeMonth": 0,
     "timeYear": 373,
     "dailyMinutesDown": {
-      "2023-04-19": 43,
+      "2023-04-20": 40,
+      "2023-04-19": 1440,
       "2023-04-18": 1440,
       "2023-04-17": 1440,
       "2023-04-16": 1440,
@@ -540,8 +541,7 @@
       "2022-04-24": 1440,
       "2022-04-23": 1440,
       "2022-04-22": 1440,
-      "2022-04-21": 1440,
-      "2022-04-20": 1440
+      "2022-04-21": 1440
     }
   },
   {
@@ -556,9 +556,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 287,
-    "timeDay": 163,
-    "timeWeek": 195,
-    "timeMonth": 196,
+    "timeDay": 443,
+    "timeWeek": 220,
+    "timeMonth": 203,
     "timeYear": 287,
     "dailyMinutesDown": {}
   },
@@ -574,9 +574,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 1009,
-    "timeDay": 1171,
-    "timeWeek": 1108,
-    "timeMonth": 1098,
+    "timeDay": 1031,
+    "timeWeek": 1105,
+    "timeMonth": 1099,
     "timeYear": 1009,
     "dailyMinutesDown": {
       "2023-01-25": 15,
@@ -591,14 +591,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "namsigdang-chatbot",
     "status": "up",
-    "uptime": "10.83%",
+    "uptime": "11.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "28.33%",
+    "uptimeYear": "29.13%",
     "time": 361,
-    "timeDay": 405,
-    "timeWeek": 377,
+    "timeDay": 342,
+    "timeWeek": 373,
     "timeMonth": 360,
     "timeYear": 367,
     "dailyMinutesDown": {
@@ -754,8 +754,7 @@
       "2022-04-24": 1440,
       "2022-04-23": 1440,
       "2022-04-22": 1440,
-      "2022-04-21": 1440,
-      "2022-04-20": 1440
+      "2022-04-21": 1440
     }
   }
 ]
