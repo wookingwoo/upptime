@@ -172,7 +172,7 @@
     "timeMonth": 0,
     "timeYear": 361,
     "dailyMinutesDown": {
-      "2023-06-18": 53,
+      "2023-06-18": 820,
       "2023-06-17": 1440,
       "2023-06-16": 1440,
       "2023-06-15": 1440,
@@ -544,9 +544,9 @@
     "url": "https://pi.wookingwoo.com/",
     "icon": "https://icons.duckduckgo.com/ip3/pi.wookingwoo.com.ico",
     "slug": "pi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -555,7 +555,9 @@
     "timeWeek": 188,
     "timeMonth": 197,
     "timeYear": 272,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-18": 0
+    }
   },
   {
     "name": "ip",
@@ -586,11 +588,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "namsigdang-chatbot",
     "status": "up",
-    "uptime": "30.45%",
+    "uptime": "30.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "66.09%",
+    "uptimeYear": "66.35%",
     "time": 361,
     "timeDay": 395,
     "timeWeek": 331,
