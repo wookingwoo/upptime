@@ -140,11 +140,11 @@
     "url": "https://wkw.one",
     "icon": "https://icons.duckduckgo.com/ip3/wkw.one.ico",
     "slug": "wkw-one",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 149,
     "timeDay": 165,
@@ -152,7 +152,7 @@
     "timeMonth": 152,
     "timeYear": 143,
     "dailyMinutesDown": {
-      "2023-07-26": 11
+      "2023-07-26": 1
     }
   },
   {
@@ -172,7 +172,7 @@
     "timeMonth": 398,
     "timeYear": 372,
     "dailyMinutesDown": {
-      "2023-07-26": 670,
+      "2023-07-26": 685,
       "2023-07-25": 1440,
       "2023-07-24": 1440,
       "2023-07-23": 1440,
