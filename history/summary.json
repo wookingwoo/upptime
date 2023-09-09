@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.51%",
-    "time": 746,
-    "timeDay": 715,
-    "timeWeek": 681,
-    "timeMonth": 748,
+    "time": 747,
+    "timeDay": 719,
+    "timeWeek": 694,
+    "timeMonth": 745,
     "timeYear": 759,
     "dailyMinutesDown": {
       "2023-01-25": 16,
@@ -38,9 +38,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 319,
-    "timeDay": 388,
-    "timeWeek": 265,
-    "timeMonth": 250,
+    "timeDay": 249,
+    "timeWeek": 259,
+    "timeMonth": 252,
     "timeYear": 290,
     "dailyMinutesDown": {
       "2022-12-15": 15
@@ -58,9 +58,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 824,
-    "timeDay": 1105,
-    "timeWeek": 754,
-    "timeMonth": 1703,
+    "timeDay": 716,
+    "timeWeek": 772,
+    "timeMonth": 1699,
     "timeYear": 864,
     "dailyMinutesDown": {
       "2023-01-25": 16,
@@ -79,11 +79,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 340,
-    "timeDay": 233,
-    "timeWeek": 243,
-    "timeMonth": 231,
-    "timeYear": 355,
+    "time": 341,
+    "timeDay": 217,
+    "timeWeek": 236,
+    "timeMonth": 232,
+    "timeYear": 352,
     "dailyMinutesDown": {
       "2022-12-15": 15,
       "2022-12-13": 16,
@@ -102,9 +102,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 984,
-    "timeDay": 1040,
-    "timeWeek": 977,
-    "timeMonth": 969,
+    "timeDay": 983,
+    "timeWeek": 1000,
+    "timeMonth": 968,
     "timeYear": 986,
     "dailyMinutesDown": {}
   },
@@ -120,10 +120,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 332,
-    "timeDay": 226,
-    "timeWeek": 223,
-    "timeMonth": 265,
-    "timeYear": 340,
+    "timeDay": 160,
+    "timeWeek": 205,
+    "timeMonth": 260,
+    "timeYear": 339,
     "dailyMinutesDown": {
       "2022-12-08": 37
     }
@@ -139,11 +139,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 139,
-    "timeDay": 94,
-    "timeWeek": 127,
-    "timeMonth": 113,
-    "timeYear": 142,
+    "time": 141,
+    "timeDay": 810,
+    "timeWeek": 234,
+    "timeMonth": 139,
+    "timeYear": 144,
     "dailyMinutesDown": {
       "2023-07-26": 21
     }
@@ -165,7 +165,8 @@
     "timeMonth": 0,
     "timeYear": 372,
     "dailyMinutesDown": {
-      "2023-09-08": 36,
+      "2023-09-09": 35,
+      "2023-09-08": 1440,
       "2023-09-07": 1440,
       "2023-09-06": 1440,
       "2023-09-05": 1440,
@@ -528,8 +529,7 @@
       "2022-09-13": 1440,
       "2022-09-12": 1440,
       "2022-09-11": 1440,
-      "2022-09-10": 1440,
-      "2022-09-09": 1440
+      "2022-09-10": 1440
     }
   },
   {
@@ -544,10 +544,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 256,
-    "timeDay": 222,
+    "timeDay": 160,
     "timeWeek": 186,
-    "timeMonth": 199,
-    "timeYear": 255,
+    "timeMonth": 200,
+    "timeYear": 251,
     "dailyMinutesDown": {}
   },
   {
@@ -561,11 +561,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 1082,
-    "timeDay": 1072,
-    "timeWeek": 999,
-    "timeMonth": 1358,
-    "timeYear": 1096,
+    "time": 1083,
+    "timeDay": 1091,
+    "timeWeek": 1033,
+    "timeMonth": 1353,
+    "timeYear": 1098,
     "dailyMinutesDown": {
       "2023-01-25": 15,
       "2022-12-02": 251,
@@ -579,15 +579,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "namsigdang-chatbot",
     "status": "up",
-    "uptime": "46.52%",
+    "uptime": "46.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.04%",
+    "uptimeYear": "97.33%",
     "time": 363,
-    "timeDay": 570,
-    "timeWeek": 381,
-    "timeMonth": 363,
+    "timeDay": 359,
+    "timeWeek": 389,
+    "timeMonth": 362,
     "timeYear": 367,
     "dailyMinutesDown": {
       "2022-12-02": 245,
@@ -600,8 +600,7 @@
       "2022-09-13": 1440,
       "2022-09-12": 1440,
       "2022-09-11": 1440,
-      "2022-09-10": 1440,
-      "2022-09-09": 1440
+      "2022-09-10": 1440
     }
   }
 ]
