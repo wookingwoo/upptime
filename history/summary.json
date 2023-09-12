@@ -165,7 +165,7 @@
     "timeMonth": 0,
     "timeYear": 372,
     "dailyMinutesDown": {
-      "2023-09-12": 1348,
+      "2023-09-12": 1355,
       "2023-09-11": 1440,
       "2023-09-10": 1440,
       "2023-09-09": 1440,
@@ -537,19 +537,19 @@
     "url": "https://pi.wookingwoo.com/",
     "icon": "https://icons.duckduckgo.com/ip3/pi.wookingwoo.com.ico",
     "slug": "pi",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 255,
-    "timeDay": 187,
+    "timeDay": 175,
     "timeWeek": 163,
-    "timeMonth": 185,
+    "timeMonth": 184,
     "timeYear": 251,
     "dailyMinutesDown": {
-      "2023-09-12": 0
+      "2023-09-12": 7
     }
   },
   {
