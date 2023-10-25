@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.51%",
-    "time": 756,
-    "timeDay": 844,
-    "timeWeek": 764,
-    "timeMonth": 834,
-    "timeYear": 763,
+    "time": 757,
+    "timeDay": 865,
+    "timeWeek": 775,
+    "timeMonth": 838,
+    "timeYear": 764,
     "dailyMinutesDown": {
       "2023-01-25": 16,
       "2022-12-02": 410,
@@ -38,10 +38,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 305,
-    "timeDay": 380,
-    "timeWeek": 178,
-    "timeMonth": 188,
-    "timeYear": 283,
+    "timeDay": 158,
+    "timeWeek": 189,
+    "timeMonth": 183,
+    "timeYear": 282,
     "dailyMinutesDown": {
       "2022-12-15": 15
     }
@@ -58,10 +58,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 840,
-    "timeDay": 807,
-    "timeWeek": 761,
-    "timeMonth": 915,
-    "timeYear": 875,
+    "timeDay": 800,
+    "timeWeek": 751,
+    "timeMonth": 918,
+    "timeYear": 876,
     "dailyMinutesDown": {
       "2023-01-25": 16,
       "2022-12-02": 389,
@@ -79,11 +79,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 348,
-    "timeDay": 50,
-    "timeWeek": 147,
-    "timeMonth": 181,
-    "timeYear": 346,
+    "time": 347,
+    "timeDay": 148,
+    "timeWeek": 152,
+    "timeMonth": 176,
+    "timeYear": 345,
     "dailyMinutesDown": {
       "2022-12-15": 15,
       "2022-12-13": 16,
@@ -102,10 +102,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 988,
-    "timeDay": 1103,
-    "timeWeek": 1092,
+    "timeDay": 1097,
+    "timeWeek": 1075,
     "timeMonth": 1005,
-    "timeYear": 987,
+    "timeYear": 988,
     "dailyMinutesDown": {}
   },
   {
@@ -120,10 +120,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 331,
-    "timeDay": 72,
+    "timeDay": 74,
     "timeWeek": 159,
-    "timeMonth": 192,
-    "timeYear": 337,
+    "timeMonth": 182,
+    "timeYear": 334,
     "dailyMinutesDown": {
       "2022-12-08": 37
     }
@@ -139,11 +139,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 135,
-    "timeDay": 51,
-    "timeWeek": 109,
-    "timeMonth": 91,
-    "timeYear": 134,
+    "time": 136,
+    "timeDay": 356,
+    "timeWeek": 156,
+    "timeMonth": 97,
+    "timeYear": 135,
     "dailyMinutesDown": {
       "2023-07-26": 21
     }
@@ -165,7 +165,8 @@
     "timeMonth": 0,
     "timeYear": 361,
     "dailyMinutesDown": {
-      "2023-10-24": 37,
+      "2023-10-25": 37,
+      "2023-10-24": 1440,
       "2023-10-23": 1440,
       "2023-10-22": 1440,
       "2023-10-21": 1440,
@@ -528,8 +529,7 @@
       "2022-10-29": 1440,
       "2022-10-28": 1440,
       "2022-10-27": 1440,
-      "2022-10-26": 1440,
-      "2022-10-25": 1440
+      "2022-10-26": 1440
     }
   },
   {
@@ -544,10 +544,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 257,
-    "timeDay": 129,
-    "timeWeek": 146,
-    "timeMonth": 171,
-    "timeYear": 246,
+    "timeDay": 63,
+    "timeWeek": 110,
+    "timeMonth": 166,
+    "timeYear": 245,
     "dailyMinutesDown": {}
   },
   {
@@ -562,10 +562,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 1086,
-    "timeDay": 1195,
-    "timeWeek": 1121,
-    "timeMonth": 1139,
-    "timeYear": 1118,
+    "timeDay": 1188,
+    "timeWeek": 1123,
+    "timeMonth": 1142,
+    "timeYear": 1120,
     "dailyMinutesDown": {
       "2023-01-25": 15,
       "2022-12-02": 251,
@@ -578,16 +578,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "namsigdang-chatbot",
     "status": "up",
-    "uptime": "52.66%",
+    "uptime": "52.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 363,
-    "timeDay": 414,
-    "timeWeek": 376,
-    "timeMonth": 363,
-    "timeYear": 366,
+    "time": 364,
+    "timeDay": 479,
+    "timeWeek": 386,
+    "timeMonth": 365,
+    "timeYear": 367,
     "dailyMinutesDown": {
       "2022-12-02": 245,
       "2022-12-01": 156
