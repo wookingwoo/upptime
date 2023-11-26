@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.51%",
-    "time": 757,
-    "timeDay": 767,
-    "timeWeek": 777,
-    "timeMonth": 754,
+    "time": 756,
+    "timeDay": 581,
+    "timeWeek": 774,
+    "timeMonth": 747,
     "timeYear": 755,
     "dailyMinutesDown": {
       "2023-01-25": 16,
@@ -22,8 +22,7 @@
       "2022-11-30": 1440,
       "2022-11-29": 1440,
       "2022-11-28": 1440,
-      "2022-11-27": 1440,
-      "2022-11-26": 213
+      "2022-11-27": 1440
     }
   },
   {
@@ -38,9 +37,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 296,
-    "timeDay": 153,
-    "timeWeek": 150,
-    "timeMonth": 187,
+    "timeDay": 107,
+    "timeWeek": 135,
+    "timeMonth": 184,
     "timeYear": 265,
     "dailyMinutesDown": {
       "2022-12-15": 15
@@ -58,9 +57,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 839,
-    "timeDay": 732,
-    "timeWeek": 738,
-    "timeMonth": 733,
+    "timeDay": 590,
+    "timeWeek": 742,
+    "timeMonth": 726,
     "timeYear": 865,
     "dailyMinutesDown": {
       "2023-01-25": 16,
@@ -80,9 +79,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 340,
-    "timeDay": 468,
-    "timeWeek": 209,
-    "timeMonth": 209,
+    "timeDay": 229,
+    "timeWeek": 217,
+    "timeMonth": 213,
     "timeYear": 331,
     "dailyMinutesDown": {
       "2022-12-15": 15,
@@ -101,10 +100,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 990,
-    "timeDay": 913,
-    "timeWeek": 1025,
-    "timeMonth": 1016,
+    "time": 989,
+    "timeDay": 778,
+    "timeWeek": 1028,
+    "timeMonth": 1005,
     "timeYear": 990,
     "dailyMinutesDown": {}
   },
@@ -119,10 +118,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 323,
-    "timeDay": 227,
-    "timeWeek": 147,
-    "timeMonth": 172,
+    "time": 322,
+    "timeDay": 217,
+    "timeWeek": 165,
+    "timeMonth": 176,
     "timeYear": 320,
     "dailyMinutesDown": {
       "2022-12-08": 37
@@ -140,10 +139,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 137,
-    "timeDay": 37,
+    "timeDay": 205,
     "timeWeek": 170,
-    "timeMonth": 126,
-    "timeYear": 134,
+    "timeMonth": 129,
+    "timeYear": 135,
     "dailyMinutesDown": {
       "2023-07-26": 21
     }
@@ -165,7 +164,8 @@
     "timeMonth": 0,
     "timeYear": 361,
     "dailyMinutesDown": {
-      "2023-11-25": 37,
+      "2023-11-26": 42,
+      "2023-11-25": 1440,
       "2023-11-24": 1440,
       "2023-11-23": 1440,
       "2023-11-22": 1440,
@@ -528,8 +528,7 @@
       "2022-11-30": 1440,
       "2022-11-29": 1440,
       "2022-11-28": 1440,
-      "2022-11-27": 1440,
-      "2022-11-26": 1440
+      "2022-11-27": 1440
     }
   },
   {
@@ -544,9 +543,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 250,
-    "timeDay": 87,
-    "timeWeek": 193,
-    "timeMonth": 152,
+    "timeDay": 193,
+    "timeWeek": 206,
+    "timeMonth": 155,
     "timeYear": 234,
     "dailyMinutesDown": {}
   },
@@ -561,10 +560,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 1086,
-    "timeDay": 1059,
-    "timeWeek": 1087,
-    "timeMonth": 1081,
+    "time": 1085,
+    "timeDay": 849,
+    "timeWeek": 1088,
+    "timeMonth": 1072,
     "timeYear": 1150,
     "dailyMinutesDown": {
       "2023-01-25": 15,
@@ -578,16 +577,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "namsigdang-chatbot",
     "status": "up",
-    "uptime": "56.16%",
+    "uptime": "56.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 365,
-    "timeDay": 370,
+    "time": 364,
+    "timeDay": 278,
     "timeWeek": 379,
-    "timeMonth": 377,
-    "timeYear": 368,
+    "timeMonth": 371,
+    "timeYear": 367,
     "dailyMinutesDown": {
       "2022-12-02": 245,
       "2022-12-01": 156
