@@ -62,19 +62,19 @@
     "url": "https://maptool.wookingwoo.com",
     "icon": "https://icons.duckduckgo.com/ip3/maptool.wookingwoo.com.ico",
     "slug": "maptool",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 324,
-    "timeDay": 153,
-    "timeWeek": 138,
-    "timeMonth": 155,
+    "timeDay": 129,
+    "timeWeek": 132,
+    "timeMonth": 153,
     "timeYear": 262,
     "dailyMinutesDown": {
-      "2024-01-03": 1
+      "2024-01-03": 13
     }
   },
   {
@@ -150,7 +150,7 @@
     "timeMonth": 413,
     "timeYear": 360,
     "dailyMinutesDown": {
-      "2024-01-03": 1016,
+      "2024-01-03": 1028,
       "2024-01-02": 1440,
       "2024-01-01": 1440,
       "2023-12-31": 1440,
