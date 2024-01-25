@@ -10,14 +10,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 757,
-    "timeDay": 603,
+    "time": 756,
+    "timeDay": 622,
     "timeWeek": 699,
-    "timeMonth": 714,
+    "timeMonth": 713,
     "timeYear": 753,
-    "dailyMinutesDown": {
-      "2023-01-25": 16
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "jjambot-website",
@@ -31,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 266,
-    "timeDay": 112,
-    "timeWeek": 192,
-    "timeMonth": 171,
+    "timeDay": 152,
+    "timeWeek": 172,
+    "timeMonth": 169,
     "timeYear": 229,
     "dailyMinutesDown": {}
   },
@@ -48,14 +46,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 836,
-    "timeDay": 605,
-    "timeWeek": 666,
-    "timeMonth": 699,
-    "timeYear": 864,
-    "dailyMinutesDown": {
-      "2023-01-25": 16
-    }
+    "time": 835,
+    "timeDay": 566,
+    "timeWeek": 659,
+    "timeMonth": 698,
+    "timeYear": 863,
+    "dailyMinutesDown": {}
   },
   {
     "name": "maptool",
@@ -69,8 +65,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 315,
-    "timeDay": 233,
-    "timeWeek": 150,
+    "timeDay": 209,
+    "timeWeek": 158,
     "timeMonth": 144,
     "timeYear": 258,
     "dailyMinutesDown": {}
@@ -86,10 +82,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 987,
-    "timeDay": 837,
-    "timeWeek": 921,
-    "timeMonth": 975,
+    "time": 986,
+    "timeDay": 809,
+    "timeWeek": 927,
+    "timeMonth": 972,
     "timeYear": 983,
     "dailyMinutesDown": {}
   },
@@ -105,9 +101,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 300,
-    "timeDay": 205,
-    "timeWeek": 128,
-    "timeMonth": 141,
+    "timeDay": 97,
+    "timeWeek": 137,
+    "timeMonth": 139,
     "timeYear": 220,
     "dailyMinutesDown": {}
   },
@@ -123,9 +119,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 136,
-    "timeDay": 37,
-    "timeWeek": 242,
-    "timeMonth": 189,
+    "timeDay": 67,
+    "timeWeek": 192,
+    "timeMonth": 172,
     "timeYear": 141,
     "dailyMinutesDown": {
       "2023-07-26": 21
@@ -148,7 +144,8 @@
     "timeMonth": 0,
     "timeYear": 360,
     "dailyMinutesDown": {
-      "2024-01-24": 41,
+      "2024-01-25": 41,
+      "2024-01-24": 1440,
       "2024-01-23": 1440,
       "2024-01-22": 1440,
       "2024-01-21": 1440,
@@ -511,8 +508,7 @@
       "2023-01-29": 1440,
       "2023-01-28": 1440,
       "2023-01-27": 1440,
-      "2023-01-26": 1440,
-      "2023-01-25": 1440
+      "2023-01-26": 1440
     }
   },
   {
@@ -526,10 +522,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 236,
-    "timeDay": 40,
-    "timeWeek": 123,
-    "timeMonth": 135,
+    "time": 234,
+    "timeDay": 142,
+    "timeWeek": 146,
+    "timeMonth": 133,
     "timeYear": 201,
     "dailyMinutesDown": {}
   },
@@ -544,14 +540,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1107,
-    "timeDay": 1042,
-    "timeWeek": 1051,
-    "timeMonth": 1065,
+    "time": 1108,
+    "timeDay": 1075,
+    "timeWeek": 1053,
+    "timeMonth": 1064,
     "timeYear": 1142,
-    "dailyMinutesDown": {
-      "2023-01-25": 15
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "namsigdang-chatbot",
@@ -559,15 +553,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "namsigdang-chatbot",
     "status": "up",
-    "uptime": "61.50%",
+    "uptime": "61.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 367,
-    "timeDay": 289,
-    "timeWeek": 343,
-    "timeMonth": 366,
+    "timeDay": 282,
+    "timeWeek": 344,
+    "timeMonth": 365,
     "timeYear": 365,
     "dailyMinutesDown": {}
   }
