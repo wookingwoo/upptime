@@ -144,7 +144,7 @@
     "timeMonth": 0,
     "timeYear": 380,
     "dailyMinutesDown": {
-      "2024-03-12": 37,
+      "2024-03-12": 1018,
       "2024-03-11": 1440,
       "2024-03-10": 1440,
       "2024-03-09": 1440,
@@ -534,18 +534,20 @@
     "url": "http://ip.wookingwoo.com/",
     "icon": "https://icons.duckduckgo.com/ip3/ip.wookingwoo.com.ico",
     "slug": "ip",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1119,
-    "timeDay": 1226,
-    "timeWeek": 1037,
-    "timeMonth": 1107,
-    "timeYear": 1133,
-    "dailyMinutesDown": {}
+    "time": 1117,
+    "timeDay": 812,
+    "timeWeek": 957,
+    "timeMonth": 1084,
+    "timeYear": 1131,
+    "dailyMinutesDown": {
+      "2024-03-12": 0
+    }
   },
   {
     "name": "namsigdang-chatbot",
@@ -553,7 +555,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "namsigdang-chatbot",
     "status": "up",
-    "uptime": "64.92%",
+    "uptime": "64.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
