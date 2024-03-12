@@ -144,7 +144,7 @@
     "timeMonth": 0,
     "timeYear": 380,
     "dailyMinutesDown": {
-      "2024-03-12": 1018,
+      "2024-03-12": 1031,
       "2024-03-11": 1440,
       "2024-03-10": 1440,
       "2024-03-09": 1440,
@@ -534,19 +534,19 @@
     "url": "http://ip.wookingwoo.com/",
     "icon": "https://icons.duckduckgo.com/ip3/ip.wookingwoo.com.ico",
     "slug": "ip",
-    "status": "down",
+    "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.06%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 1117,
-    "timeDay": 812,
-    "timeWeek": 957,
-    "timeMonth": 1084,
-    "timeYear": 1131,
+    "timeDay": 774,
+    "timeWeek": 929,
+    "timeMonth": 1071,
+    "timeYear": 1130,
     "dailyMinutesDown": {
-      "2024-03-12": 0
+      "2024-03-12": 13
     }
   },
   {
