@@ -40,19 +40,19 @@
     "url": "https://smartwork.wookingwoo.com",
     "icon": "https://icons.duckduckgo.com/ip3/smartwork.wookingwoo.com.ico",
     "slug": "smartwork",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 825,
-    "timeDay": 519,
-    "timeWeek": 678,
-    "timeMonth": 726,
+    "timeDay": 631,
+    "timeWeek": 697,
+    "timeMonth": 730,
     "timeYear": 865,
     "dailyMinutesDown": {
-      "2024-03-16": 1
+      "2024-03-16": 7
     }
   },
   {
@@ -146,7 +146,7 @@
     "timeMonth": 0,
     "timeYear": 380,
     "dailyMinutesDown": {
-      "2024-03-16": 1294,
+      "2024-03-16": 1301,
       "2024-03-15": 1440,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
