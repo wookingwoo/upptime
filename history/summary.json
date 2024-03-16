@@ -22,10 +22,10 @@
     "url": "https://jjambot.wookingwoo.com",
     "icon": "https://icons.duckduckgo.com/ip3/jjambot.wookingwoo.com.ico",
     "slug": "jjambot-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 245,
@@ -33,7 +33,9 @@
     "timeWeek": 174,
     "timeMonth": 163,
     "timeYear": 215,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-16": 1
+    }
   },
   {
     "name": "smartwork",
@@ -58,18 +60,20 @@
     "url": "https://maptool.wookingwoo.com",
     "icon": "https://icons.duckduckgo.com/ip3/maptool.wookingwoo.com.ico",
     "slug": "maptool",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 290,
+    "time": 291,
     "timeDay": 173,
     "timeWeek": 155,
     "timeMonth": 159,
     "timeYear": 242,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-16": 1
+    }
   },
   {
     "name": "message",
@@ -94,10 +98,10 @@
     "url": "https://animalface.wookingwoo.com",
     "icon": "https://icons.duckduckgo.com/ip3/animalface.wookingwoo.com.ico",
     "slug": "animalface",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 280,
@@ -105,7 +109,9 @@
     "timeWeek": 162,
     "timeMonth": 138,
     "timeYear": 209,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-16": 1
+    }
   },
   {
     "name": "wkw.one",
@@ -144,7 +150,7 @@
     "timeMonth": 0,
     "timeYear": 380,
     "dailyMinutesDown": {
-      "2024-03-16": 36,
+      "2024-03-16": 203,
       "2024-03-15": 1440,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
@@ -516,9 +522,9 @@
     "url": "https://pi.wookingwoo.com/",
     "icon": "https://icons.duckduckgo.com/ip3/pi.wookingwoo.com.ico",
     "slug": "pi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -527,7 +533,9 @@
     "timeWeek": 122,
     "timeMonth": 122,
     "timeYear": 193,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-16": 0
+    }
   },
   {
     "name": "ip",
@@ -555,7 +563,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "namsigdang-chatbot",
     "status": "up",
-    "uptime": "65.17%",
+    "uptime": "65.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
