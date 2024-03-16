@@ -22,11 +22,11 @@
     "url": "https://jjambot.wookingwoo.com",
     "icon": "https://icons.duckduckgo.com/ip3/jjambot.wookingwoo.com.ico",
     "slug": "jjambot-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.02%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 244,
     "timeDay": 98,
@@ -34,7 +34,7 @@
     "timeMonth": 160,
     "timeYear": 215,
     "dailyMinutesDown": {
-      "2024-03-16": 14
+      "2024-03-16": 1
     }
   },
   {
@@ -62,18 +62,16 @@
     "slug": "maptool",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.02%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 291,
     "timeDay": 151,
     "timeWeek": 152,
     "timeMonth": 158,
     "timeYear": 242,
-    "dailyMinutesDown": {
-      "2024-03-16": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "message",
@@ -98,10 +96,10 @@
     "url": "https://animalface.wookingwoo.com",
     "icon": "https://icons.duckduckgo.com/ip3/animalface.wookingwoo.com.ico",
     "slug": "animalface",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 280,
@@ -109,7 +107,9 @@
     "timeWeek": 151,
     "timeMonth": 136,
     "timeYear": 208,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-16": 1
+    }
   },
   {
     "name": "wkw.one",
@@ -148,7 +148,7 @@
     "timeMonth": 0,
     "timeYear": 380,
     "dailyMinutesDown": {
-      "2024-03-16": 217,
+      "2024-03-16": 232,
       "2024-03-15": 1440,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
@@ -520,9 +520,9 @@
     "url": "https://pi.wookingwoo.com/",
     "icon": "https://icons.duckduckgo.com/ip3/pi.wookingwoo.com.ico",
     "slug": "pi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -531,7 +531,9 @@
     "timeWeek": 119,
     "timeMonth": 122,
     "timeYear": 193,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-16": 0
+    }
   },
   {
     "name": "ip",
