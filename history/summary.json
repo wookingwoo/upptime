@@ -22,19 +22,19 @@
     "url": "https://jjambot.wookingwoo.com",
     "icon": "https://icons.duckduckgo.com/ip3/jjambot.wookingwoo.com.ico",
     "slug": "jjambot-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 244,
+    "time": 245,
     "timeDay": 145,
     "timeWeek": 171,
     "timeMonth": 163,
     "timeYear": 215,
     "dailyMinutesDown": {
-      "2024-03-16": 6
+      "2024-03-16": 1
     }
   },
   {
@@ -60,10 +60,10 @@
     "url": "https://maptool.wookingwoo.com",
     "icon": "https://icons.duckduckgo.com/ip3/maptool.wookingwoo.com.ico",
     "slug": "maptool",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 291,
@@ -71,7 +71,9 @@
     "timeWeek": 152,
     "timeMonth": 158,
     "timeYear": 242,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-16": 1
+    }
   },
   {
     "name": "message",
@@ -98,18 +100,16 @@
     "slug": "animalface",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 280,
     "timeDay": 123,
     "timeWeek": 153,
     "timeMonth": 137,
     "timeYear": 208,
-    "dailyMinutesDown": {
-      "2024-03-16": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "wkw.one",
@@ -148,7 +148,7 @@
     "timeMonth": 0,
     "timeYear": 380,
     "dailyMinutesDown": {
-      "2024-03-16": 238,
+      "2024-03-16": 255,
       "2024-03-15": 1440,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
@@ -522,18 +522,16 @@
     "slug": "pi",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 213,
     "timeDay": 146,
     "timeWeek": 122,
     "timeMonth": 122,
     "timeYear": 193,
-    "dailyMinutesDown": {
-      "2024-03-16": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ip",
