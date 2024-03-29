@@ -144,7 +144,7 @@
     "timeMonth": 0,
     "timeYear": 380,
     "dailyMinutesDown": {
-      "2024-03-29": 885,
+      "2024-03-29": 892,
       "2024-03-28": 1440,
       "2024-03-27": 1440,
       "2024-03-26": 1440,
@@ -516,19 +516,19 @@
     "url": "https://pi.wookingwoo.com/",
     "icon": "https://icons.duckduckgo.com/ip3/pi.wookingwoo.com.ico",
     "slug": "pi",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 212,
-    "timeDay": 155,
+    "timeDay": 159,
     "timeWeek": 166,
-    "timeMonth": 137,
+    "timeMonth": 138,
     "timeYear": 188,
     "dailyMinutesDown": {
-      "2024-03-29": 0
+      "2024-03-29": 7
     }
   },
   {
