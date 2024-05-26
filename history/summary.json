@@ -4,19 +4,19 @@
     "url": "https://wookingwoo.com",
     "icon": "https://icons.duckduckgo.com/ip3/wookingwoo.com.ico",
     "slug": "wookingwoo-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.43%",
-    "uptimeDay": "96.39%",
-    "uptimeWeek": "99.48%",
-    "uptimeMonth": "99.88%",
+    "uptimeDay": "95.14%",
+    "uptimeWeek": "99.31%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.99%",
     "time": 750,
-    "timeDay": 895,
-    "timeWeek": 774,
-    "timeMonth": 769,
+    "timeDay": 869,
+    "timeWeek": 783,
+    "timeMonth": 772,
     "timeYear": 752,
     "dailyMinutesDown": {
-      "2024-05-26": 52
+      "2024-05-26": 70
     }
   },
   {
@@ -149,7 +149,7 @@
     "timeMonth": 0,
     "timeYear": 402,
     "dailyMinutesDown": {
-      "2024-05-26": 358,
+      "2024-05-26": 377,
       "2024-05-25": 1440,
       "2024-05-24": 1440,
       "2024-05-23": 1440,
@@ -539,19 +539,19 @@
     "url": "http://ip.wookingwoo.com/",
     "icon": "https://icons.duckduckgo.com/ip3/ip.wookingwoo.com.ico",
     "slug": "ip",
-    "status": "down",
+    "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "96.41%",
-    "uptimeWeek": "99.49%",
-    "uptimeMonth": "99.88%",
+    "uptimeDay": "95.14%",
+    "uptimeWeek": "99.31%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.98%",
-    "time": 1057,
-    "timeDay": 701,
-    "timeWeek": 708,
-    "timeMonth": 703,
-    "timeYear": 1040,
+    "time": 1056,
+    "timeDay": 685,
+    "timeWeek": 703,
+    "timeMonth": 702,
+    "timeYear": 1039,
     "dailyMinutesDown": {
-      "2024-05-26": 52,
+      "2024-05-26": 70,
       "2024-03-15": 52
     }
   },
@@ -560,19 +560,19 @@
     "url": "$NAMSIGDANG_CHATBOT_SECRET_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "namsigdang-chatbot",
-    "status": "down",
+    "status": "up",
     "uptime": "69.19%",
-    "uptimeDay": "96.41%",
-    "uptimeWeek": "99.49%",
-    "uptimeMonth": "99.88%",
+    "uptimeDay": "95.14%",
+    "uptimeWeek": "99.31%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.99%",
-    "time": 366,
-    "timeDay": 391,
-    "timeWeek": 381,
-    "timeMonth": 383,
+    "time": 367,
+    "timeDay": 401,
+    "timeWeek": 385,
+    "timeMonth": 384,
     "timeYear": 368,
     "dailyMinutesDown": {
-      "2024-05-26": 52
+      "2024-05-26": 70
     }
   }
 ]
