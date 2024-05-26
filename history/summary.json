@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/wookingwoo.com.ico",
     "slug": "wookingwoo-com",
     "status": "down",
-    "uptime": "99.44%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.43%",
+    "uptimeDay": "96.39%",
+    "uptimeWeek": "99.48%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.99%",
     "time": 750,
     "timeDay": 895,
     "timeWeek": 774,
     "timeMonth": 769,
     "timeYear": 752,
     "dailyMinutesDown": {
-      "2024-05-26": 1
+      "2024-05-26": 52
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://smartwork.wookingwoo.com",
     "icon": "https://icons.duckduckgo.com/ip3/smartwork.wookingwoo.com.ico",
     "slug": "smartwork",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "96.44%",
+    "uptimeWeek": "99.49%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.99%",
     "time": 829,
-    "timeDay": 821,
-    "timeWeek": 769,
-    "timeMonth": 760,
-    "timeYear": 866,
+    "timeDay": 710,
+    "timeWeek": 747,
+    "timeMonth": 755,
+    "timeYear": 865,
     "dailyMinutesDown": {
-      "2024-05-26": 1
+      "2024-05-26": 51
     }
   },
   {
@@ -149,7 +149,7 @@
     "timeMonth": 0,
     "timeYear": 402,
     "dailyMinutesDown": {
-      "2024-05-26": 307,
+      "2024-05-26": 358,
       "2024-05-25": 1440,
       "2024-05-24": 1440,
       "2024-05-23": 1440,
@@ -541,17 +541,17 @@
     "slug": "ip",
     "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "96.41%",
+    "uptimeWeek": "99.49%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.98%",
     "time": 1057,
     "timeDay": 701,
     "timeWeek": 708,
     "timeMonth": 703,
     "timeYear": 1040,
     "dailyMinutesDown": {
-      "2024-05-26": 0,
+      "2024-05-26": 52,
       "2024-03-15": 52
     }
   },
@@ -561,18 +561,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "namsigdang-chatbot",
     "status": "down",
-    "uptime": "69.20%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "69.19%",
+    "uptimeDay": "96.41%",
+    "uptimeWeek": "99.49%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.99%",
     "time": 366,
     "timeDay": 391,
     "timeWeek": 381,
     "timeMonth": 383,
     "timeYear": 368,
     "dailyMinutesDown": {
-      "2024-05-26": 0
+      "2024-05-26": 52
     }
   }
 ]
