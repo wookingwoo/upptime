@@ -4,11 +4,11 @@
     "url": "https://wookingwoo.com",
     "icon": "https://icons.duckduckgo.com/ip3/wookingwoo.com.ico",
     "slug": "wookingwoo-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.46%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.71%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 753,
     "timeDay": 862,
@@ -16,6 +16,7 @@
     "timeMonth": 779,
     "timeYear": 757,
     "dailyMinutesDown": {
+      "2024-07-14": 4,
       "2024-05-26": 70
     }
   },
@@ -42,11 +43,11 @@
     "url": "https://smartwork.wookingwoo.com",
     "icon": "https://icons.duckduckgo.com/ip3/smartwork.wookingwoo.com.ico",
     "slug": "smartwork",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 835,
     "timeDay": 814,
@@ -54,6 +55,7 @@
     "timeMonth": 765,
     "timeYear": 855,
     "dailyMinutesDown": {
+      "2024-07-14": 4,
       "2024-05-26": 51
     }
   },
@@ -149,7 +151,7 @@
     "timeMonth": 0,
     "timeYear": 413,
     "dailyMinutesDown": {
-      "2024-07-14": 48,
+      "2024-07-14": 842,
       "2024-07-13": 1440,
       "2024-07-12": 1440,
       "2024-07-11": 1440,
@@ -539,10 +541,10 @@
     "url": "http://ip.wookingwoo.com/",
     "icon": "https://icons.duckduckgo.com/ip3/ip.wookingwoo.com.ico",
     "slug": "ip",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1010,
@@ -551,6 +553,7 @@
     "timeMonth": 662,
     "timeYear": 976,
     "dailyMinutesDown": {
+      "2024-07-14": 2,
       "2024-05-26": 70,
       "2024-03-15": 52
     }
@@ -560,9 +563,9 @@
     "url": "$NAMSIGDANG_CHATBOT_SECRET_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "namsigdang-chatbot",
-    "status": "up",
-    "uptime": "71.45%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "71.48%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -572,6 +575,7 @@
     "timeMonth": 396,
     "timeYear": 372,
     "dailyMinutesDown": {
+      "2024-07-14": 0,
       "2024-05-26": 70
     }
   }
