@@ -96,19 +96,19 @@
     "url": "https://msg.wookingwoo.com/oauth2/login?message=%EB%A1%9C%EA%B7%B8%EC%9D%B8%EC%9D%B4%20%ED%95%84%EC%9A%94%ED%95%A9%EB%8B%88%EB%8B%A4&returnUrl=http%3A%2F%2Fmsg.wookingwoo.com%2Fdashboard",
     "icon": "https://icons.duckduckgo.com/ip3/msg.wookingwoo.com.ico",
     "slug": "message",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 992,
-    "timeDay": 944,
-    "timeWeek": 913,
-    "timeMonth": 919,
+    "timeDay": 975,
+    "timeWeek": 927,
+    "timeMonth": 922,
     "timeYear": 996,
     "dailyMinutesDown": {
-      "2024-08-13": 1
+      "2024-08-13": 8
     }
   },
   {
@@ -166,7 +166,7 @@
     "timeMonth": 0,
     "timeYear": 413,
     "dailyMinutesDown": {
-      "2024-08-13": 634,
+      "2024-08-13": 643,
       "2024-08-12": 1440,
       "2024-08-11": 1440,
       "2024-08-10": 1440,
