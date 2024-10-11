@@ -114,18 +114,20 @@
     "url": "https://animalface.wookingwoo.com",
     "icon": "https://icons.duckduckgo.com/ip3/animalface.wookingwoo.com.ico",
     "slug": "animalface",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 191,
-    "timeDay": 120,
-    "timeWeek": 245,
-    "timeMonth": 241,
+    "time": 192,
+    "timeDay": 142,
+    "timeWeek": 235,
+    "timeMonth": 238,
     "timeYear": 171,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-11": 1
+    }
   },
   {
     "name": "wkw.one",
@@ -164,7 +166,7 @@
     "timeMonth": 0,
     "timeYear": 413,
     "dailyMinutesDown": {
-      "2024-10-11": 51,
+      "2024-10-11": 981,
       "2024-10-10": 1440,
       "2024-10-09": 1440,
       "2024-10-08": 1440,
@@ -584,7 +586,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "namsigdang-chatbot",
     "status": "up",
-    "uptime": "74.67%",
+    "uptime": "74.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
