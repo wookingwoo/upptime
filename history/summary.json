@@ -114,19 +114,19 @@
     "url": "https://animalface.wookingwoo.com",
     "icon": "https://icons.duckduckgo.com/ip3/animalface.wookingwoo.com.ico",
     "slug": "animalface",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.67%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 192,
-    "timeDay": 142,
-    "timeWeek": 235,
-    "timeMonth": 238,
+    "time": 191,
+    "timeDay": 125,
+    "timeWeek": 219,
+    "timeMonth": 234,
     "timeYear": 171,
     "dailyMinutesDown": {
-      "2024-10-11": 1
+      "2024-10-11": 19
     }
   },
   {
@@ -166,7 +166,7 @@
     "timeMonth": 0,
     "timeYear": 413,
     "dailyMinutesDown": {
-      "2024-10-11": 981,
+      "2024-10-11": 1000,
       "2024-10-10": 1440,
       "2024-10-09": 1440,
       "2024-10-08": 1440,
