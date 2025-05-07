@@ -31,10 +31,10 @@
     "url": "https://jjambot.wookingwoo.com",
     "icon": "https://icons.duckduckgo.com/ip3/jjambot.wookingwoo.com.ico",
     "slug": "jjambot-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 218,
@@ -42,7 +42,9 @@
     "timeWeek": 261,
     "timeMonth": 268,
     "timeYear": 230,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-07": 1
+    }
   },
   {
     "name": "smartwork",
@@ -78,10 +80,10 @@
     "url": "https://maptool.wookingwoo.com",
     "icon": "https://icons.duckduckgo.com/ip3/maptool.wookingwoo.com.ico",
     "slug": "maptool",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 189,
@@ -90,6 +92,7 @@
     "timeMonth": 213,
     "timeYear": 199,
     "dailyMinutesDown": {
+      "2025-05-07": 1,
       "2024-07-27": 17
     }
   },
@@ -118,17 +121,17 @@
     "slug": "animalface",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 196,
     "timeDay": 217,
     "timeWeek": 201,
     "timeMonth": 211,
     "timeYear": 213,
     "dailyMinutesDown": {
-      "2025-05-07": 1,
+      "2025-05-07": 10,
       "2024-10-11": 19
     }
   },
@@ -170,7 +173,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-07": 691,
+      "2025-05-07": 700,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
       "2025-05-04": 1440,
