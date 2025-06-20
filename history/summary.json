@@ -32,9 +32,9 @@
     "slug": "jjambot-website",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 235,
     "timeDay": 1195,
@@ -42,7 +42,6 @@
     "timeMonth": 375,
     "timeYear": 249,
     "dailyMinutesDown": {
-      "2025-06-19": 10,
       "2025-05-23": 27
     }
   },
@@ -81,17 +80,16 @@
     "slug": "maptool",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 205,
     "timeDay": 885,
     "timeWeek": 516,
     "timeMonth": 340,
     "timeYear": 217,
     "dailyMinutesDown": {
-      "2025-06-19": 10,
       "2024-07-27": 17
     }
   },
@@ -122,9 +120,9 @@
     "slug": "animalface",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 224,
     "timeDay": 901,
@@ -132,7 +130,6 @@
     "timeMonth": 468,
     "timeYear": 248,
     "dailyMinutesDown": {
-      "2025-06-19": 10,
       "2025-06-08": 16,
       "2025-05-07": 23,
       "2024-10-11": 19
@@ -175,7 +172,8 @@
     "timeMonth": 0,
     "timeYear": 405,
     "dailyMinutesDown": {
-      "2025-06-19": 1425,
+      "2025-06-20": 61,
+      "2025-06-19": 1440,
       "2025-06-18": 1440,
       "2025-06-17": 1440,
       "2025-06-16": 1440,
@@ -534,8 +532,7 @@
       "2024-06-24": 1440,
       "2024-06-23": 1440,
       "2024-06-22": 1440,
-      "2024-06-21": 1440,
-      "2024-06-20": 1440
+      "2024-06-21": 1440
     }
   },
   {
