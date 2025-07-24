@@ -26,10 +26,10 @@
     "url": "https://jjambot.wookingwoo.com",
     "icon": "https://icons.duckduckgo.com/ip3/jjambot.wookingwoo.com.ico",
     "slug": "jjambot-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.85%",
-    "uptimeWeek": "99.84%",
+    "uptimeDay": "98.80%",
+    "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 244,
@@ -38,7 +38,7 @@
     "timeMonth": 311,
     "timeYear": 261,
     "dailyMinutesDown": {
-      "2025-07-24": 17,
+      "2025-07-24": 18,
       "2025-05-23": 27
     }
   },
@@ -67,10 +67,10 @@
     "url": "https://maptool.wookingwoo.com",
     "icon": "https://icons.duckduckgo.com/ip3/maptool.wookingwoo.com.ico",
     "slug": "maptool",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.85%",
-    "uptimeWeek": "99.84%",
+    "uptimeDay": "98.80%",
+    "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 209,
@@ -79,7 +79,7 @@
     "timeMonth": 233,
     "timeYear": 223,
     "dailyMinutesDown": {
-      "2025-07-24": 17,
+      "2025-07-24": 18,
       "2024-07-27": 17
     }
   },
@@ -108,10 +108,10 @@
     "url": "https://animalface.wookingwoo.com",
     "icon": "https://icons.duckduckgo.com/ip3/animalface.wookingwoo.com.ico",
     "slug": "animalface",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "98.85%",
-    "uptimeWeek": "99.84%",
+    "uptimeDay": "98.80%",
+    "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 229,
@@ -120,7 +120,7 @@
     "timeMonth": 227,
     "timeYear": 252,
     "dailyMinutesDown": {
-      "2025-07-24": 17,
+      "2025-07-24": 18,
       "2025-06-08": 16,
       "2025-05-07": 23,
       "2024-10-11": 19
@@ -163,7 +163,7 @@
     "timeMonth": 0,
     "timeYear": 405,
     "dailyMinutesDown": {
-      "2025-07-24": 590,
+      "2025-07-24": 718,
       "2025-07-23": 1440,
       "2025-07-22": 1440,
       "2025-07-21": 1440,
