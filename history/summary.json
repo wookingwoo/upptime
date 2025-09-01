@@ -32,10 +32,10 @@
     "url": "https://jjambot.wookingwoo.com",
     "icon": "https://icons.duckduckgo.com/ip3/jjambot.wookingwoo.com.ico",
     "slug": "jjambot-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 250,
@@ -44,6 +44,7 @@
     "timeMonth": 282,
     "timeYear": 261,
     "dailyMinutesDown": {
+      "2025-09-01": 1,
       "2025-07-24": 57,
       "2025-05-23": 27
     }
@@ -76,10 +77,10 @@
     "url": "https://maptool.wookingwoo.com",
     "icon": "https://icons.duckduckgo.com/ip3/maptool.wookingwoo.com.ico",
     "slug": "maptool",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 216,
@@ -88,6 +89,7 @@
     "timeMonth": 274,
     "timeYear": 233,
     "dailyMinutesDown": {
+      "2025-09-01": 1,
       "2025-07-24": 57
     }
   },
@@ -171,7 +173,7 @@
     "timeMonth": 0,
     "timeYear": 405,
     "dailyMinutesDown": {
-      "2025-09-01": 67,
+      "2025-09-01": 697,
       "2025-08-31": 1440,
       "2025-08-30": 1440,
       "2025-08-29": 1440,
@@ -539,9 +541,9 @@
     "url": "https://pi.wookingwoo.com/",
     "icon": "https://icons.duckduckgo.com/ip3/pi.wookingwoo.com.ico",
     "slug": "pi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -551,6 +553,7 @@
     "timeMonth": 283,
     "timeYear": 242,
     "dailyMinutesDown": {
+      "2025-09-01": 0,
       "2025-07-24": 16
     }
   },
@@ -583,7 +586,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "namsigdang-chatbot",
     "status": "up",
-    "uptime": "82.21%",
+    "uptime": "82.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
