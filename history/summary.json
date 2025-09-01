@@ -4,10 +4,10 @@
     "url": "https://wookingwoo.com",
     "icon": "https://icons.duckduckgo.com/ip3/wookingwoo.com.ico",
     "slug": "wookingwoo-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.38%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.94%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "98.93%",
     "uptimeMonth": "99.67%",
     "uptimeYear": "99.92%",
     "time": 557,
@@ -16,6 +16,7 @@
     "timeMonth": 166,
     "timeYear": 463,
     "dailyMinutesDown": {
+      "2025-09-01": 1,
       "2025-08-30": 19,
       "2025-08-28": 52,
       "2025-08-26": 37,
@@ -34,9 +35,9 @@
     "slug": "jjambot-website",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 250,
     "timeDay": 293,
@@ -44,7 +45,6 @@
     "timeMonth": 281,
     "timeYear": 261,
     "dailyMinutesDown": {
-      "2025-09-01": 7,
       "2025-07-24": 57,
       "2025-05-23": 27
     }
@@ -79,9 +79,9 @@
     "slug": "maptool",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 216,
     "timeDay": 387,
@@ -89,7 +89,6 @@
     "timeMonth": 273,
     "timeYear": 233,
     "dailyMinutesDown": {
-      "2025-09-01": 7,
       "2025-07-24": 57
     }
   },
@@ -173,7 +172,7 @@
     "timeMonth": 0,
     "timeYear": 405,
     "dailyMinutesDown": {
-      "2025-09-01": 704,
+      "2025-09-01": 1058,
       "2025-08-31": 1440,
       "2025-08-30": 1440,
       "2025-08-29": 1440,
@@ -543,9 +542,9 @@
     "slug": "pi",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 221,
     "timeDay": 440,
@@ -553,7 +552,6 @@
     "timeMonth": 286,
     "timeYear": 242,
     "dailyMinutesDown": {
-      "2025-09-01": 7,
       "2025-07-24": 16
     }
   },
