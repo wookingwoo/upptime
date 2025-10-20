@@ -82,9 +82,9 @@
     "slug": "maptool",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 225,
     "timeDay": 430,
@@ -92,7 +92,6 @@
     "timeMonth": 237,
     "timeYear": 235,
     "dailyMinutesDown": {
-      "2025-10-20": 13,
       "2025-07-24": 57
     }
   },
@@ -121,10 +120,10 @@
     "url": "https://animalface.wookingwoo.com",
     "icon": "https://icons.duckduckgo.com/ip3/animalface.wookingwoo.com.ico",
     "slug": "animalface",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 260,
@@ -133,6 +132,7 @@
     "timeMonth": 459,
     "timeYear": 277,
     "dailyMinutesDown": {
+      "2025-10-20": 1,
       "2025-07-24": 57,
       "2025-06-08": 16,
       "2025-05-07": 23
@@ -175,7 +175,7 @@
     "timeMonth": 1201,
     "timeYear": 571,
     "dailyMinutesDown": {
-      "2025-10-20": 959,
+      "2025-10-20": 986,
       "2025-10-19": 1440,
       "2025-10-18": 1440,
       "2025-10-17": 1440,
@@ -545,9 +545,9 @@
     "slug": "pi",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 234,
     "timeDay": 414,
@@ -555,7 +555,6 @@
     "timeMonth": 291,
     "timeYear": 254,
     "dailyMinutesDown": {
-      "2025-10-20": 6,
       "2025-07-24": 16
     }
   },
