@@ -1,7 +1,7 @@
 url: $NAMSIGDANG_CHATBOT_SECRET_URL
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-10-21T21:20:48.413Z
+status: up
+code: 400
+responseTime: 359
+lastUpdated: 2025-10-21T22:16:41.813Z
 startTime: 2022-09-18T06:00:44.000Z
 generator: Upptime <https://github.com/upptime/upptime>
