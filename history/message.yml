@@ -1,7 +1,7 @@
 url: https://msg.wookingwoo.com/oauth2/login?message=%EB%A1%9C%EA%B7%B8%EC%9D%B8%EC%9D%B4%20%ED%95%84%EC%9A%94%ED%95%A9%EB%8B%88%EB%8B%A4&returnUrl=http%3A%2F%2Fmsg.wookingwoo.com%2Fdashboard
 status: up
 code: 200
-responseTime: 778
-lastUpdated: 2025-10-29T23:11:16.192Z
+responseTime: 759
+lastUpdated: 2025-10-30T23:10:52.078Z
 startTime: 2021-10-03T06:50:23.000Z
 generator: Upptime <https://github.com/upptime/upptime>
