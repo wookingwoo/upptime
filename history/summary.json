@@ -36,10 +36,10 @@
     "url": "https://jjambot.wookingwoo.com",
     "icon": "https://icons.duckduckgo.com/ip3/jjambot.wookingwoo.com.ico",
     "slug": "jjambot-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 274,
@@ -48,6 +48,7 @@
     "timeMonth": 442,
     "timeYear": 287,
     "dailyMinutesDown": {
+      "2025-11-05": 2,
       "2025-10-20": 17,
       "2025-07-24": 57,
       "2025-05-23": 27
@@ -83,10 +84,10 @@
     "url": "https://maptool.wookingwoo.com",
     "icon": "https://icons.duckduckgo.com/ip3/maptool.wookingwoo.com.ico",
     "slug": "maptool",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 230,
@@ -95,6 +96,7 @@
     "timeMonth": 285,
     "timeYear": 240,
     "dailyMinutesDown": {
+      "2025-11-05": 2,
       "2025-10-20": 17,
       "2025-07-24": 57
     }
@@ -106,9 +108,9 @@
     "slug": "message",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "97.83%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 896,
     "timeDay": 734,
@@ -116,7 +118,7 @@
     "timeMonth": 700,
     "timeYear": 874,
     "dailyMinutesDown": {
-      "2025-11-05": 1,
+      "2025-11-05": 31,
       "2025-06-19": 28
     }
   },
@@ -180,7 +182,7 @@
     "timeMonth": 1257,
     "timeYear": 738,
     "dailyMinutesDown": {
-      "2025-11-05": 1110,
+      "2025-11-05": 1141,
       "2025-11-04": 1440,
       "2025-11-03": 1440,
       "2025-11-02": 1440,
@@ -548,18 +550,19 @@
     "url": "https://pi.wookingwoo.com/",
     "icon": "https://icons.duckduckgo.com/ip3/pi.wookingwoo.com.ico",
     "slug": "pi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 235,
+    "time": 236,
     "timeDay": 146,
     "timeWeek": 172,
     "timeMonth": 267,
     "timeYear": 253,
     "dailyMinutesDown": {
+      "2025-11-05": 0,
       "2025-10-20": 16,
       "2025-07-24": 16
     }
