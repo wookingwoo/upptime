@@ -184,7 +184,7 @@
     "timeMonth": 0,
     "timeYear": 738,
     "dailyMinutesDown": {
-      "2025-12-20": 60,
+      "2025-12-20": 584,
       "2025-12-19": 1440,
       "2025-12-18": 1440,
       "2025-12-17": 1440,
@@ -602,7 +602,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "namsigdang-chatbot",
     "status": "up",
-    "uptime": "83.68%",
+    "uptime": "83.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "93.39%",
@@ -682,17 +682,19 @@
     "url": "https://trainmate.ronny.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/trainmate.ronny.dev.ico",
     "slug": "trainmate",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 787,
-    "timeDay": 730,
-    "timeWeek": 773,
-    "timeMonth": 787,
-    "timeYear": 787,
-    "dailyMinutesDown": {}
+    "time": 776,
+    "timeDay": 670,
+    "timeWeek": 753,
+    "timeMonth": 776,
+    "timeYear": 776,
+    "dailyMinutesDown": {
+      "2025-12-20": 0
+    }
   }
 ]
