@@ -1,7 +1,7 @@
 url: https://trainmate.ronny.dev/
-status: up
-code: 200
-responseTime: 730
-lastUpdated: 2025-12-19T23:13:17.564Z
+status: down
+code: 502
+responseTime: 610
+lastUpdated: 2025-12-20T09:43:47.620Z
 startTime: 2025-12-07T14:38:57.149Z
 generator: Upptime <https://github.com/upptime/upptime>
