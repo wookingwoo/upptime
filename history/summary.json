@@ -6,9 +6,9 @@
     "slug": "wookingwoo-com",
     "status": "up",
     "uptime": "99.41%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 404,
     "timeDay": 99,
@@ -16,7 +16,6 @@
     "timeMonth": 174,
     "timeYear": 289,
     "dailyMinutesDown": {
-      "2025-12-21": 7,
       "2025-11-13": 31,
       "2025-11-05": 31,
       "2025-10-20": 53,
@@ -185,7 +184,8 @@
     "timeMonth": 0,
     "timeYear": 738,
     "dailyMinutesDown": {
-      "2025-12-21": 1431,
+      "2025-12-22": 66,
+      "2025-12-21": 1440,
       "2025-12-20": 1440,
       "2025-12-19": 1440,
       "2025-12-18": 1440,
@@ -544,8 +544,7 @@
       "2024-12-26": 1440,
       "2024-12-25": 1440,
       "2024-12-24": 1440,
-      "2024-12-23": 1440,
-      "2024-12-22": 1440
+      "2024-12-23": 1440
     }
   },
   {
@@ -630,19 +629,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.busition.com.ico",
     "slug": "busition",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 319,
     "timeDay": 94,
     "timeWeek": 209,
     "timeMonth": 319,
     "timeYear": 319,
-    "dailyMinutesDown": {
-      "2025-12-21": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "pinecone",
@@ -650,19 +647,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/pinecone.ronny.dev.ico",
     "slug": "pinecone",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 332,
     "timeDay": 168,
     "timeWeek": 228,
     "timeMonth": 332,
     "timeYear": 332,
-    "dailyMinutesDown": {
-      "2025-12-21": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "trip",
@@ -670,19 +665,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/trip.ronny.dev.ico",
     "slug": "trip",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1986,
     "timeDay": 1657,
     "timeWeek": 1884,
     "timeMonth": 1986,
     "timeYear": 1986,
-    "dailyMinutesDown": {
-      "2025-12-21": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "trainmate",
