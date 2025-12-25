@@ -4,18 +4,19 @@
     "url": "https://wookingwoo.com",
     "icon": "https://icons.duckduckgo.com/ip3/wookingwoo.com.ico",
     "slug": "wookingwoo-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.41%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 401,
+    "time": 400,
     "timeDay": 195,
     "timeWeek": 149,
     "timeMonth": 174,
     "timeYear": 284,
     "dailyMinutesDown": {
+      "2025-12-25": 1,
       "2025-11-13": 31,
       "2025-11-05": 31,
       "2025-10-20": 53,
@@ -173,7 +174,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/woj.wookingwoo.com.ico",
     "slug": "woj",
     "status": "down",
-    "uptime": "0.49%",
+    "uptime": "0.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -184,7 +185,7 @@
     "timeMonth": 0,
     "timeYear": 738,
     "dailyMinutesDown": {
-      "2025-12-25": 63,
+      "2025-12-25": 1070,
       "2025-12-24": 1440,
       "2025-12-23": 1440,
       "2025-12-22": 1440,
@@ -602,7 +603,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "namsigdang-chatbot",
     "status": "up",
-    "uptime": "83.75%",
+    "uptime": "83.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "93.39%",
@@ -628,10 +629,10 @@
     "url": "https://www.busition.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.busition.com.ico",
     "slug": "busition",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 316,
@@ -639,17 +640,19 @@
     "timeWeek": 211,
     "timeMonth": 316,
     "timeYear": 316,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-25": 1
+    }
   },
   {
     "name": "pinecone",
     "url": "https://pinecone.ronny.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/pinecone.ronny.dev.ico",
     "slug": "pinecone",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 341,
@@ -657,17 +660,19 @@
     "timeWeek": 280,
     "timeMonth": 341,
     "timeYear": 341,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-25": 1
+    }
   },
   {
     "name": "trip",
     "url": "https://trip.ronny.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/trip.ronny.dev.ico",
     "slug": "trip",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1968,
@@ -675,7 +680,9 @@
     "timeWeek": 1855,
     "timeMonth": 1968,
     "timeYear": 1968,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-25": 1
+    }
   },
   {
     "name": "trainmate",
