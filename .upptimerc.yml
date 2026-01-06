@@ -40,6 +40,8 @@ sites:
     url: https://trip.ronny.dev/
   - name: trainmate
     url: https://trainmate.ronny.dev/
+  - name: blockchain-simulator
+    url: https://blockchain.ronny.dev/
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
