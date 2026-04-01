@@ -17,8 +17,6 @@ sites:
     url: https://animalface.wookingwoo.com
   - name: wkw.one
     url: https://wkw.one
-  - name: woj
-    url: http://woj.wookingwoo.com/
   - name: pi
     url: https://pi.wookingwoo.com/
   - name: ip
