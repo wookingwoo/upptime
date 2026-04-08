@@ -31,7 +31,7 @@ sites:
       - 200
       - 400
   - name: busition
-    url: https://www.busition.com/
+    url: https://busition.com/
   - name: pinecone
     url: https://pinecone.ronny.dev/
   - name: trip
