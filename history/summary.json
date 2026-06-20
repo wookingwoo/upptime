@@ -115,10 +115,10 @@
     "slug": "smartwork",
     "status": "down",
     "uptime": "99.38%",
-    "uptimeDay": "98.96%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.21%",
+    "uptimeDay": "97.20%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.20%",
     "time": 758,
     "timeDay": 884,
     "timeWeek": 748,
@@ -133,7 +133,7 @@
       "2025-12-07": 886,
       "2025-12-06": 1440,
       "2025-12-05": 574,
-      "2026-06-20": 15
+      "2026-06-20": 40
     }
   },
   {
@@ -251,9 +251,9 @@
     "slug": "ip",
     "status": "down",
     "uptime": "99.24%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "97.52%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.21%",
     "time": 573,
     "timeDay": 595,
@@ -269,7 +269,7 @@
       "2025-12-07": 886,
       "2025-12-06": 1440,
       "2025-12-05": 572,
-      "2026-06-20": 10
+      "2026-06-20": 36
     }
   },
   {
@@ -279,10 +279,10 @@
     "slug": "namsigdang-chatbot",
     "status": "down",
     "uptime": "85.85%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.22%",
+    "uptimeDay": "97.86%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.21%",
     "time": 396,
     "timeDay": 381,
     "timeWeek": 364,
@@ -297,7 +297,7 @@
       "2025-12-07": 886,
       "2025-12-06": 1440,
       "2025-12-05": 570,
-      "2026-06-20": 5
+      "2026-06-20": 31
     }
   },
   {
@@ -523,18 +523,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/trainmate.ronny.dev.ico",
     "slug": "trainmate",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.19%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
     "time": 759,
     "timeDay": 769,
     "timeWeek": 753,
     "timeMonth": 754,
     "timeYear": 759,
     "dailyMinutesDown": {
-      "2026-06-20": 1
+      "2026-06-20": 26
     }
   },
   {
