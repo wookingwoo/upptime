@@ -7,6 +7,12 @@ sites:
     url: https://wookingwoo.com
   - name: jjambot-website
     url: https://jjambot.ronny.dev
+  - name: jjambot-chatbot
+    url: $JJAMBOT_CHATBOT_URL
+    icon: fastfood
+    method: GET
+    expectedStatusCodes:
+      - 200
   - name: jjambot-app
     url: https://app.jjambot.ronny.dev
   - name: smartwork
