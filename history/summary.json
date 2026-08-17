@@ -108,19 +108,19 @@
     "url": "$JJAMBOT_CHATBOT_URL",
     "icon": "fastfood",
     "slug": "jjambot-chatbot",
-    "status": "down",
-    "uptime": "24.58%",
-    "uptimeDay": "24.58%",
-    "uptimeWeek": "24.58%",
-    "uptimeMonth": "24.58%",
-    "uptimeYear": "24.58%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "2.97%",
+    "uptimeDay": "2.97%",
+    "uptimeWeek": "2.97%",
+    "uptimeMonth": "2.97%",
+    "uptimeYear": "2.97%",
+    "time": 635,
+    "timeDay": 635,
+    "timeWeek": 635,
+    "timeMonth": 635,
+    "timeYear": 635,
     "dailyMinutesDown": {
-      "2026-08-17": 1
+      "2026-08-17": 22
     }
   },
   {
